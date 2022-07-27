@@ -1,0 +1,15 @@
+/home/fox/Trybe/aceleração_c#/Exercicios/estruturas_de_controle/poligonos/poligonos/bin/Debug/net6.0/poligonos
+/home/fox/Trybe/aceleração_c#/Exercicios/estruturas_de_controle/poligonos/poligonos/bin/Debug/net6.0/poligonos.deps.json
+/home/fox/Trybe/aceleração_c#/Exercicios/estruturas_de_controle/poligonos/poligonos/bin/Debug/net6.0/poligonos.runtimeconfig.json
+/home/fox/Trybe/aceleração_c#/Exercicios/estruturas_de_controle/poligonos/poligonos/bin/Debug/net6.0/poligonos.dll
+/home/fox/Trybe/aceleração_c#/Exercicios/estruturas_de_controle/poligonos/poligonos/bin/Debug/net6.0/poligonos.pdb
+/home/fox/Trybe/aceleração_c#/Exercicios/estruturas_de_controle/poligonos/poligonos/obj/Debug/net6.0/poligonos.csproj.AssemblyReference.cache
+/home/fox/Trybe/aceleração_c#/Exercicios/estruturas_de_controle/poligonos/poligonos/obj/Debug/net6.0/poligonos.GeneratedMSBuildEditorConfig.editorconfig
+/home/fox/Trybe/aceleração_c#/Exercicios/estruturas_de_controle/poligonos/poligonos/obj/Debug/net6.0/poligonos.AssemblyInfoInputs.cache
+/home/fox/Trybe/aceleração_c#/Exercicios/estruturas_de_controle/poligonos/poligonos/obj/Debug/net6.0/poligonos.AssemblyInfo.cs
+/home/fox/Trybe/aceleração_c#/Exercicios/estruturas_de_controle/poligonos/poligonos/obj/Debug/net6.0/poligonos.csproj.CoreCompileInputs.cache
+/home/fox/Trybe/aceleração_c#/Exercicios/estruturas_de_controle/poligonos/poligonos/obj/Debug/net6.0/poligonos.dll
+/home/fox/Trybe/aceleração_c#/Exercicios/estruturas_de_controle/poligonos/poligonos/obj/Debug/net6.0/refint/poligonos.dll
+/home/fox/Trybe/aceleração_c#/Exercicios/estruturas_de_controle/poligonos/poligonos/obj/Debug/net6.0/poligonos.pdb
+/home/fox/Trybe/aceleração_c#/Exercicios/estruturas_de_controle/poligonos/poligonos/obj/Debug/net6.0/poligonos.genruntimeconfig.cache
+/home/fox/Trybe/aceleração_c#/Exercicios/estruturas_de_controle/poligonos/poligonos/obj/Debug/net6.0/ref/poligonos.dll

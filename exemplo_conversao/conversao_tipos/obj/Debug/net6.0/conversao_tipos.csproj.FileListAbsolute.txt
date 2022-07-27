@@ -1,0 +1,12 @@
+/home/fox/Trybe/aceleração_c#/dia_26-07/exemplo_conversao/conversao_tipos/bin/Debug/net6.0/conversao_tipos.deps.json
+/home/fox/Trybe/aceleração_c#/dia_26-07/exemplo_conversao/conversao_tipos/bin/Debug/net6.0/conversao_tipos.dll
+/home/fox/Trybe/aceleração_c#/dia_26-07/exemplo_conversao/conversao_tipos/bin/Debug/net6.0/conversao_tipos.pdb
+/home/fox/Trybe/aceleração_c#/dia_26-07/exemplo_conversao/conversao_tipos/obj/Debug/net6.0/conversao_tipos.csproj.AssemblyReference.cache
+/home/fox/Trybe/aceleração_c#/dia_26-07/exemplo_conversao/conversao_tipos/obj/Debug/net6.0/conversao_tipos.GeneratedMSBuildEditorConfig.editorconfig
+/home/fox/Trybe/aceleração_c#/dia_26-07/exemplo_conversao/conversao_tipos/obj/Debug/net6.0/conversao_tipos.AssemblyInfoInputs.cache
+/home/fox/Trybe/aceleração_c#/dia_26-07/exemplo_conversao/conversao_tipos/obj/Debug/net6.0/conversao_tipos.AssemblyInfo.cs
+/home/fox/Trybe/aceleração_c#/dia_26-07/exemplo_conversao/conversao_tipos/obj/Debug/net6.0/conversao_tipos.csproj.CoreCompileInputs.cache
+/home/fox/Trybe/aceleração_c#/dia_26-07/exemplo_conversao/conversao_tipos/obj/Debug/net6.0/conversao_tipos.dll
+/home/fox/Trybe/aceleração_c#/dia_26-07/exemplo_conversao/conversao_tipos/obj/Debug/net6.0/refint/conversao_tipos.dll
+/home/fox/Trybe/aceleração_c#/dia_26-07/exemplo_conversao/conversao_tipos/obj/Debug/net6.0/conversao_tipos.pdb
+/home/fox/Trybe/aceleração_c#/dia_26-07/exemplo_conversao/conversao_tipos/obj/Debug/net6.0/ref/conversao_tipos.dll

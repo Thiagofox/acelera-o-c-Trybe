@@ -1,0 +1,15 @@
+/home/fox/Trybe/aceleração_c#/Teste_Greet/greet/bin/Debug/net6.0/greet
+/home/fox/Trybe/aceleração_c#/Teste_Greet/greet/bin/Debug/net6.0/greet.deps.json
+/home/fox/Trybe/aceleração_c#/Teste_Greet/greet/bin/Debug/net6.0/greet.runtimeconfig.json
+/home/fox/Trybe/aceleração_c#/Teste_Greet/greet/bin/Debug/net6.0/greet.dll
+/home/fox/Trybe/aceleração_c#/Teste_Greet/greet/bin/Debug/net6.0/greet.pdb
+/home/fox/Trybe/aceleração_c#/Teste_Greet/greet/obj/Debug/net6.0/greet.csproj.AssemblyReference.cache
+/home/fox/Trybe/aceleração_c#/Teste_Greet/greet/obj/Debug/net6.0/greet.GeneratedMSBuildEditorConfig.editorconfig
+/home/fox/Trybe/aceleração_c#/Teste_Greet/greet/obj/Debug/net6.0/greet.AssemblyInfoInputs.cache
+/home/fox/Trybe/aceleração_c#/Teste_Greet/greet/obj/Debug/net6.0/greet.AssemblyInfo.cs
+/home/fox/Trybe/aceleração_c#/Teste_Greet/greet/obj/Debug/net6.0/greet.csproj.CoreCompileInputs.cache
+/home/fox/Trybe/aceleração_c#/Teste_Greet/greet/obj/Debug/net6.0/greet.dll
+/home/fox/Trybe/aceleração_c#/Teste_Greet/greet/obj/Debug/net6.0/refint/greet.dll
+/home/fox/Trybe/aceleração_c#/Teste_Greet/greet/obj/Debug/net6.0/greet.pdb
+/home/fox/Trybe/aceleração_c#/Teste_Greet/greet/obj/Debug/net6.0/greet.genruntimeconfig.cache
+/home/fox/Trybe/aceleração_c#/Teste_Greet/greet/obj/Debug/net6.0/ref/greet.dll

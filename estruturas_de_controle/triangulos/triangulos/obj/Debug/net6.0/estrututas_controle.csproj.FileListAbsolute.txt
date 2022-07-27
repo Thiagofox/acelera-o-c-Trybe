@@ -1,0 +1,15 @@
+/home/fox/Trybe/aceleração_c#/Exercicios/estruturas_de_controle/estruturas_controle/bin/Debug/net6.0/estrututas_controle
+/home/fox/Trybe/aceleração_c#/Exercicios/estruturas_de_controle/estruturas_controle/bin/Debug/net6.0/estrututas_controle.deps.json
+/home/fox/Trybe/aceleração_c#/Exercicios/estruturas_de_controle/estruturas_controle/bin/Debug/net6.0/estrututas_controle.runtimeconfig.json
+/home/fox/Trybe/aceleração_c#/Exercicios/estruturas_de_controle/estruturas_controle/bin/Debug/net6.0/estrututas_controle.dll
+/home/fox/Trybe/aceleração_c#/Exercicios/estruturas_de_controle/estruturas_controle/bin/Debug/net6.0/estrututas_controle.pdb
+/home/fox/Trybe/aceleração_c#/Exercicios/estruturas_de_controle/estruturas_controle/obj/Debug/net6.0/estrututas_controle.csproj.AssemblyReference.cache
+/home/fox/Trybe/aceleração_c#/Exercicios/estruturas_de_controle/estruturas_controle/obj/Debug/net6.0/estrututas_controle.GeneratedMSBuildEditorConfig.editorconfig
+/home/fox/Trybe/aceleração_c#/Exercicios/estruturas_de_controle/estruturas_controle/obj/Debug/net6.0/estrututas_controle.AssemblyInfoInputs.cache
+/home/fox/Trybe/aceleração_c#/Exercicios/estruturas_de_controle/estruturas_controle/obj/Debug/net6.0/estrututas_controle.AssemblyInfo.cs
+/home/fox/Trybe/aceleração_c#/Exercicios/estruturas_de_controle/estruturas_controle/obj/Debug/net6.0/estrututas_controle.csproj.CoreCompileInputs.cache
+/home/fox/Trybe/aceleração_c#/Exercicios/estruturas_de_controle/estruturas_controle/obj/Debug/net6.0/estrututas_controle.dll
+/home/fox/Trybe/aceleração_c#/Exercicios/estruturas_de_controle/estruturas_controle/obj/Debug/net6.0/refint/estrututas_controle.dll
+/home/fox/Trybe/aceleração_c#/Exercicios/estruturas_de_controle/estruturas_controle/obj/Debug/net6.0/estrututas_controle.pdb
+/home/fox/Trybe/aceleração_c#/Exercicios/estruturas_de_controle/estruturas_controle/obj/Debug/net6.0/estrututas_controle.genruntimeconfig.cache
+/home/fox/Trybe/aceleração_c#/Exercicios/estruturas_de_controle/estruturas_controle/obj/Debug/net6.0/ref/estrututas_controle.dll

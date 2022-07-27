@@ -1,0 +1,15 @@
+/home/fox/Trybe/aceleração_c#/dia_22-07/Exemplo_Lampadas/problema1/bin/Debug/net6.0/problema1
+/home/fox/Trybe/aceleração_c#/dia_22-07/Exemplo_Lampadas/problema1/bin/Debug/net6.0/problema1.deps.json
+/home/fox/Trybe/aceleração_c#/dia_22-07/Exemplo_Lampadas/problema1/bin/Debug/net6.0/problema1.runtimeconfig.json
+/home/fox/Trybe/aceleração_c#/dia_22-07/Exemplo_Lampadas/problema1/bin/Debug/net6.0/problema1.dll
+/home/fox/Trybe/aceleração_c#/dia_22-07/Exemplo_Lampadas/problema1/bin/Debug/net6.0/problema1.pdb
+/home/fox/Trybe/aceleração_c#/dia_22-07/Exemplo_Lampadas/problema1/obj/Debug/net6.0/problema1.csproj.AssemblyReference.cache
+/home/fox/Trybe/aceleração_c#/dia_22-07/Exemplo_Lampadas/problema1/obj/Debug/net6.0/problema1.GeneratedMSBuildEditorConfig.editorconfig
+/home/fox/Trybe/aceleração_c#/dia_22-07/Exemplo_Lampadas/problema1/obj/Debug/net6.0/problema1.AssemblyInfoInputs.cache
+/home/fox/Trybe/aceleração_c#/dia_22-07/Exemplo_Lampadas/problema1/obj/Debug/net6.0/problema1.AssemblyInfo.cs
+/home/fox/Trybe/aceleração_c#/dia_22-07/Exemplo_Lampadas/problema1/obj/Debug/net6.0/problema1.csproj.CoreCompileInputs.cache
+/home/fox/Trybe/aceleração_c#/dia_22-07/Exemplo_Lampadas/problema1/obj/Debug/net6.0/problema1.dll
+/home/fox/Trybe/aceleração_c#/dia_22-07/Exemplo_Lampadas/problema1/obj/Debug/net6.0/refint/problema1.dll
+/home/fox/Trybe/aceleração_c#/dia_22-07/Exemplo_Lampadas/problema1/obj/Debug/net6.0/problema1.pdb
+/home/fox/Trybe/aceleração_c#/dia_22-07/Exemplo_Lampadas/problema1/obj/Debug/net6.0/problema1.genruntimeconfig.cache
+/home/fox/Trybe/aceleração_c#/dia_22-07/Exemplo_Lampadas/problema1/obj/Debug/net6.0/ref/problema1.dll
